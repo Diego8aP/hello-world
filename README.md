@@ -4,8 +4,8 @@ Primer repositorio practica documentación github.
 # tareas
 - [x] programar boton enviar datos bd tabla cliente
 - [x] agregar estilo gui
-- [] programar boton enviar datos bd tabla pedido
-- [] programar boton enviar datos bd tabla proveedor
+- [ ] programar boton enviar datos bd tabla pedido
+- [ ] programar boton enviar datos bd tabla proveedor
 
 **importante:**
 - importante1
