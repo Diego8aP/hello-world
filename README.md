@@ -2,10 +2,11 @@
 Primer repositorio practica documentación github.
 
 # tareas
-[x] programar boton enviar datos bd tabla cliente
-[x] agregar estilo gui
-[] programar boton enviar datos bd tabla pedido
-[] programar boton enviar datos bd tabla proveedor
+
+- [x] programar boton enviar datos bd tabla cliente
+- [x] agregar estilo gui
+- [ ] programar boton enviar datos bd tabla pedido
+- [ ] programar boton enviar datos bd tabla proveedor
 
 **importante:**
 - importante1
@@ -23,9 +24,6 @@ Primer repositorio practica documentación github.
 | tobi   | primero |  3
 | andrew | segundo |  2
 | tom    | tercero |  3 (aprox)
-
-
-
 
 
 
